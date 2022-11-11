@@ -12,5 +12,5 @@ The images are preprocessed using the Keras ImageDataGenerator class. This resiz
 
 The images were also normalised so that elements range from 0->1 instead of 0->255.
 
-[! alt text](https://github.com/Pranay7ej/CNN-soil-image-classification/blob/fca026311b5a8829d278103f67f264c9687270a3/testing%20set/Clay_Soil/Clay_4.jpg)
-[! alt text](https://github.com/Pranay7ej/CNN-soil-image-classification/blob/6dd440e3db3d34072eb3506fa57acfb2bc3b4ad1/testing%20set/Black_Soil/Black_22.jpg)
+![clay](https://github.com/Pranay7ej/CNN-soil-image-classification/blob/fca026311b5a8829d278103f67f264c9687270a3/testing%20set/Clay_Soil/Clay_4.jpg)
+![black](https://github.com/Pranay7ej/CNN-soil-image-classification/blob/6dd440e3db3d34072eb3506fa57acfb2bc3b4ad1/testing%20set/Black_Soil/Black_22.jpg)
