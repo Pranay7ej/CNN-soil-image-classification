@@ -12,4 +12,4 @@ The images are preprocessed using the Keras ImageDataGenerator class. This resiz
 
 The images were also normalised so that elements range from 0->1 instead of 0->255.
 
-
+[!alt text](https://raw.githubusercontent.com/Pranay7ej/CNN-soil-image-classification/main/testing%20set/Red_Soil/Red_22.jpg)
