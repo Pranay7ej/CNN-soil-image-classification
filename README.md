@@ -11,3 +11,5 @@ The data used for this is comes from google images. There were then saved into s
 The images are preprocessed using the Keras ImageDataGenerator class. This resizes to an approximate size for the algorithm (299,299,3) pixels.
 
 The images were also normalised so that elements range from 0->1 instead of 0->255.
+
+
